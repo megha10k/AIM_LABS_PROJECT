@@ -1,6 +1,6 @@
 # 🎮 Aim Labs - Gamify Your Aim Improvement! 🎯🔫
 
-# https://codesandbox.io/s/aim-trainer-dldf43
+# https://codesandbox.io/s/my-aim-trainer-l7y3jn
 
 📅 Created: October 2022
 
